@@ -148,6 +148,7 @@ models/cache/
 # Development and test files
 README_DEV.md
 test_using_ollama.py
+Notes.md
 
 # IDE and editor files
 .vscode/
